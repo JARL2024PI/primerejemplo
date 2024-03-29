@@ -1,0 +1,19 @@
+{
+    "name": "josea/tienda_v1",
+    "description": "Mi tienda v1",
+    "type": "project",
+    "autoload" : {
+        "psr-4" : {
+            "MVC\\" : "./",
+            "Controladores\\" : "./controladores",
+            "Modelos\\" : "./modelos"
+        }
+    },
+    "authors": [
+        {
+            "name": "kadupulmarchena",
+            "email": "joseantonioromerlopoezfct@gmail.com"
+        }
+    ],
+    "require": {}
+}
